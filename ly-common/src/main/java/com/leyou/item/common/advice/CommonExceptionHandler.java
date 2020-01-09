@@ -1,8 +1,8 @@
-package com.leyou.common.advice;
+package com.leyou.item.common.advice;
 
-import com.leyou.common.enums.ExceptionEnum;
-import com.leyou.common.exception.LyException;
-import com.leyou.common.result.ExceptionResult;
+import com.leyou.item.common.enums.ExceptionEnum;
+import com.leyou.item.common.exception.LyException;
+import com.leyou.item.common.result.ExceptionResult;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

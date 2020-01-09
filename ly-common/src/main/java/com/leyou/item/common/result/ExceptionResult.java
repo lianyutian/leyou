@@ -1,6 +1,6 @@
-package com.leyou.common.result;
+package com.leyou.item.common.result;
 
-import com.leyou.common.enums.ExceptionEnum;
+import com.leyou.item.common.enums.ExceptionEnum;
 import lombok.Data;
 
 @Data
