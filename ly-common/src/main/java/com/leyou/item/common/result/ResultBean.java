@@ -17,6 +17,8 @@ public class ResultBean<T> implements Serializable {
 
     public static final int NO_PERMISSION = 2;
 
+    public static final int UN_KNOW_EXCEPTION = -99;
+
     private String msg = "success";
 
     private int code = SUCCESS;
